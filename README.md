@@ -2,11 +2,19 @@
 Please refer to ./core/models.py for question 1-2, and ./core/tests.py for question 3.
 
 # Usage
-Install requirements via:
+Install requirements via: <br>
+```console
 pip install -r requirements.txt
-Run migrations:
+```
+Run migrations: <br>
+```console
 python manage.py migrate
-Run tests:
+```
+Run tests: <br>
+```console
 python manage.py test
-Django shell:
+```
+Django shell: <br>
+```console
 python manage.py shell
+```
